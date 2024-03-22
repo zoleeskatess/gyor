@@ -1,7 +1,9 @@
 body {
         background: #1D597B url(varoshaza.jpg) top center no-repeat fixed;
         color: white;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: 'Times New Roman';
+        color: white;
+        
 }
 
 h1 {
